@@ -1,15 +1,4 @@
-# Frisco
-
-App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
-Increase the web presence of a App with this configurable theme.
-
-![Frisco template screenshot](images/_screenshot.jpg)
-
-Frisco was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
-
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/frisco-jekyll-template)
+# Phoenix Security Static Website
 
 ## Features
 
@@ -39,6 +28,7 @@ Frisco was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should s
 Install the dependencies with [Bundler](http://bundler.io/):
 
 ~~~bash
+$ bundle add webrick
 $ bundle install
 ~~~
 

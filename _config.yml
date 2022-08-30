@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Frisco Template
+title: Phoenix Security
 url: "https://brave-submarine.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -16,7 +16,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: Phoenix Security
   links:
     - https://github.com/CloudCannon/frisco-jekyll-template
 
