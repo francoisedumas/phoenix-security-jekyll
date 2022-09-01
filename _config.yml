@@ -66,21 +66,6 @@ defaults:
       layout: "default"
   -
     scope:
-      type: "posts"
-    values:
-      layout: "post"
-      _options:
-        image:
-          width: 2000
-          height: 1322
-          resize_style: cover
-          uploads_dir: "/images/post_uploads"
-        content:
-          width: 1500
-          height: 2000
-          uploads_dir: "/images/post_uploads"
-  -
-    scope:
       path: "contact-success.html"
     values:
       layout: "page"
@@ -99,7 +84,6 @@ defaults:
         resize_style: cover
 
 # -----------
-# CloudCannon
 
 social_icons:
   - Facebook
